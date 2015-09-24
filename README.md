@@ -7,6 +7,7 @@
 
 [compass](http://compass-style.org/)
 
+## Get Started
 1. Point MAMP to the wordpress/ directory
 2. Setup your local DB and edit wp-config.php as necessary
 3. Hit localhost:8888 and install wordpress

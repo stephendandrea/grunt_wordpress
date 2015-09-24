@@ -1,9 +1,11 @@
 ## Requirements
-- [node](https://nodejs.org/en/)
-- [npm](https://www.npmjs.com/)
-- [compass](http://compass-style.org/)
-- [MAMP](https://www.mamp.info/en/)
+[node](https://nodejs.org/en/)
 
+[npm](https://www.npmjs.com/)
+
+[MAMP](https://www.mamp.info/en/)
+
+[compass](http://compass-style.org/)
 
 1. Point MAMP to the wordpress/ directory
 2. Setup your local DB and edit wp-config.php as necessary

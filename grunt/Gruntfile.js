@@ -3,7 +3,7 @@
 // Configurable paths
 var config = {
   app: 'theme',
-  dist: '../wordpress/wp-content/themes/blog/'
+  dist: '../wordpress/wp-content/themes/theme/'
 };
 
 module.exports = function (grunt) {

@@ -17,7 +17,6 @@ sudo npm install -d
 grunt watch
 ```
 ### Your off to the races!
-=====
 - Start deving in the in the grunt/theme directory and grunt will compile your changes in to the wordpress theme
 - The livereload task care of browser refreshing. To disable comment out lines 53-56 in functions.php
 

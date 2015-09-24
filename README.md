@@ -3,15 +3,16 @@
 
 [npm](https://www.npmjs.com/)
 
-[MAMP](https://www.mamp.info/en/)
-
 [compass](http://compass-style.org/)
 
+[MAMP](https://www.mamp.info/en/) (optional)
+
 ## Get Started
-1. Point MAMP to the wordpress/ directory
+1. Point MAMP at the wordpress/ directory OR [try this](http://coolestguidesontheplanet.com/get-apache-mysql-php-phpmyadmin-working-osx-10-9-mavericks/)
 2. Setup your local DB and edit wp-config.php as necessary
 3. Hit localhost:8888 and install wordpress
 4. Set the active theme to 'theme'
+
 
 ### Open the repo directory in terminal execute the following commands:
 ```

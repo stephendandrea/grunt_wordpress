@@ -1,8 +1,8 @@
 ## Requirements
-- node
-- npm
-- compass
-- MAMP
+- [node](https://nodejs.org/en/)
+- [npm](https://www.npmjs.com/)
+- [compass](http://compass-style.org/)
+- [MAMP](https://www.mamp.info/en/)
 
 
 1. Point MAMP to the wordpress/ directory

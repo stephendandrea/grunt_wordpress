@@ -1,7 +1,5 @@
 ## Requirements
-[node](https://nodejs.org/en/)
-
-[npm](https://www.npmjs.com/)
+[node](https://nodejs.org/en/) ~v4.1.1
 
 [compass](http://compass-style.org/)
 
